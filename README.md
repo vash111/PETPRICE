@@ -199,7 +199,7 @@ VolunteerParticipant ↔ User
 - 날짜,종류,시도,상태(보호중,공고중),중성화 여부를 설정하여 검색할수있습니다.
 - 클릭시 유기동물의 정보 보호센터의 정보를 모달창으로 확인할수있습니다.
 
-| 상하단 배너 |
+| 유기동물 조회 |
 |----------|
 |![tab](https://github.com/user-attachments/assets/52615daa-ac1f-4c98-857e-d7784f4b34ac)|
 
